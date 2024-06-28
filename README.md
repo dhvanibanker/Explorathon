@@ -1,2 +1,2 @@
 # Explorathon
-Explorathon is a hackathon
+Explorathon is a hackathon.
